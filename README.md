@@ -1,2 +1,2 @@
 # GSuite-samples
-Samples of G Suite-based apps
+This is a repository of samples I work on for G Suite-based apps 😀😀
