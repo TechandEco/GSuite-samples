@@ -2,6 +2,7 @@
 # Send SMS event updates or discount codes via Twilio and a Google Sheet
 
 Follow me on [Twitter](https://twitter.com/TechandEco)
+Visit this solution's [blog post with screenshots here]()
 
 ## Introduction
 
@@ -82,7 +83,7 @@ Visit Twilio dashboard to locate API credentials
     > column.This is possible since the web app simply appends new data off
     > the last row of data entered in the sheet, so it dynamically adapts.
 
-1. Authorize the script and send SMS
+1. Prepare message and authorize the script to send SMS
     1. Refresh Google Sheet
     1. Enter a message in the “Message” column (ex: “Hi this is a message”)
     1. A new menu at the top of the sheet called “Send SMS”  should have been
