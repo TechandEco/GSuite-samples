@@ -73,6 +73,8 @@ Visit Twilio dashboard to locate API credentials
     - Visit the tab with the web app and enter your personal phone number and
        click “Submit”, the one you used to verify your account with Twilio
        (this is not the phone number you bought from Twilio to send an SMS).
+    ![Screenshot of Twilio values in script](https://cdn.jsdelivr.net/gh/TechandEco/GSuite-samples@master/twilio-sheet/twilio_account_info_screenshot.png)
+
 1. Return to the spreadsheet and you will see your phone number and the
     time you entered it logged in the sheet.
     > Optional if you do not wish to enter phone numbers via the web app you
