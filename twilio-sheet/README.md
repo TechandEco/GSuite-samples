@@ -70,7 +70,7 @@ Visit Twilio dashboard to locate API credentials
     1. At the top of the code enter the following Twilio Account ID, Auth
        token, and the phone number you purchased from Twilio.
 1. Enter data via the web app
-    1. Visit the tab with the web app and enter your personal phone number and
+    - Visit the tab with the web app and enter your personal phone number and
        click “Submit”, the one you used to verify your account with Twilio
        (this is not the phone number you bought from Twilio to send an SMS).
 1. Return to the spreadsheet and you will see your phone number and the
