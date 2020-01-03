@@ -2,7 +2,7 @@
 # Send SMS event updates or discount codes via Twilio and a Google Sheet
 
 Follow me on [Twitter](https://twitter.com/TechandEco)
-Visit this solution's [blog post with screenshots here]()
+Visit this solution's [blog post with screenshots here](https://medium.com/@TechandEco/send-sms-event-updates-or-discount-codes-using-twilio-from-a-google-sheet-fd1ebd24c4e)
 
 ## Introduction
 
