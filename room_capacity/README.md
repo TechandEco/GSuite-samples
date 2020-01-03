@@ -13,5 +13,6 @@ You can find the use case and steps in this
 
 1. Create a new Google Sheet
 1. Click Tools > Script editor in the Sheet's menu bar.
-1. Paste code in the Code.js file in the script editor.
+1. Paste code from the Code.js file into the sheet's script editor and save.
 1. Return to Google Sheet and enter `=ROOM_TYPE`(cell position of registered participants)
+   in order to have the function perform it's calculation.
