@@ -14,3 +14,5 @@ What you will need:
    Google Analytics account.
 
 For full instructions with screenshots please visit [this blog post.](https://medium.com/@TechandEco/apps-script-macro-to-automate-daily-google-analytics-reports-%EF%B8%8F-in-a-google-sheet-668263ab6c8c)
+
+![Screenshot of Sheet with Analytics add-on](analytics-script-screenshot.png)
