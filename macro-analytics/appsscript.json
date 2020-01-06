@@ -1,12 +1,13 @@
 {
-    "timeZone": "America/Los_Angeles",
-    "dependencies": {
-    },
-    "exceptionLogging": "STACKDRIVER",
-    "sheets": {
-      "macros": [{
-        "menuName": "createChartsFromAnalytics",
-        "functionName": "createChartsFromAnalytics"
-      }]
-    }
+  "timeZone": "America/Los_Angeles",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "sheets": {
+    "macros": [{
+      "menuName": "createChartsFromAnalytics",
+      "functionName": "createChartsFromAnalytics"
+    }]
   }
+}
+  
