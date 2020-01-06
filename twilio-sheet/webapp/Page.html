@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <h1>Let's send you a text</h1>
+  <p>Please enter your phone number without any special characters or spaces.</p>
+  <label>Phone number: </label><input type="text" id="phoneInput" placeholder="ex: 9990001234">
+  <button id="submitButton">Submit</button>
+
+  <script>
+  document.getElementById('submitButton').addEventListener('click', function() {
+    // Get the value from the `phoneInput` text box.
+    var phoneNumber = document.getElementById('phoneInput').value;
+    
+    // Run the Apps Script `userClicked` function passing the `phoneNumber` input.
+    google.script.run.userClicked(phoneNumber);
+    
+    // Clear the `phoneInput` text box.
+    document.getElementById('phoneInput').value = '';
+  });
+  </script>
+</html>
