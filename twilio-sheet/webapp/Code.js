@@ -2,7 +2,8 @@ var SHEET_URL = 'ENTER_SPREADSHEET_URL_HERE';
 
 /**
  * Loads main web app page.
- * Learm more about web apps: https://developers.google.com/apps-script/guides/web
+ * Learm more about web apps:
+ * https://developers.google.com/apps-script/guides/web
  *
  * @param {Object} e - HTTP GET event.
  */

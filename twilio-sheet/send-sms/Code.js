@@ -11,7 +11,8 @@ var TWILIO_AUTH_TOKEN = 'PASTE_TWILIO_AUTH_TOKEN_HERE_EX: AC4z072e7863c5d13b703e
 
 /**
  * Installs a trigger in the Spreadsheet to run upon the Sheet being opened.
- * To learn more about triggers read: https://developers.google.com/apps-script/guides/triggers
+ * To learn more about triggers read:
+ * https://developers.google.com/apps-script/guides/triggers
  */
 function onOpen() {
   // To learn about custom menus, please read:
@@ -24,7 +25,6 @@ function onOpen() {
 
 /**
  * Sends text messages listed in the Google Sheet
- *
  */
 function sendSmsToAll() {
   var sheet = SpreadsheetApp.getActiveSheet();
@@ -50,6 +50,7 @@ function sendSmsToAll() {
  *
  * @param {number} phoneNumber - phone number to send SMS to.
  * @param {string} message - text to send via SMS.
+ * 
  * @return {string} status of SMS sent (successful sent date or error encountered).
  */
 function sendSms(phoneNumber, message) {
