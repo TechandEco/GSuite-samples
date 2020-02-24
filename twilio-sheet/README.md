@@ -3,7 +3,7 @@
 
 - Follow me on
   [Twitter](https://twitter.com/TechandEco)
-- Visit this solution's 
+- Visit this solution's
   [blog post with screenshots here](https://medium.com/@TechandEco/send-sms-event-updates-or-discount-codes-using-twilio-from-a-google-sheet-fd1ebd24c4e)
 
 ## Introduction
