@@ -60,7 +60,7 @@ function sendSms(phoneNumber, message) {
     UrlFetchApp.fetch(twilioUrl, {
       method: 'post',
       headers: {
-        Authorization: 'Basic ' + Utilities.base64Encode(TWILIO_AUTH_TOKEN)
+        Authorization: 'Basic ' + Utilities.base64Encode(TWILIO_ACCOUNT_SID:TWILIO_AUTH_TOKEN)
       },
       payload: {
         To: phoneNumber.toString(),
