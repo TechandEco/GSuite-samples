@@ -45,11 +45,9 @@ use the script _as is_.
        [Script.google.com](https://script.google.com/u/1/home) > New script
     1. Replace the existing code (if any) with
        [the code in the Code.gs tab](webapp/Code.js)
-        - Then save (File > Save)
-        - Create another file by clicking File > New > HTML file> call it
+        - Create another file by clicking File > Add a File > HTML file> call it
           “Page.html” and paste the code from the
           [Page.html tab here.](webapp/Page.html)
-        - Then save (File > Save)
 
 1. [Copy this Google Sheet](https://docs.google.com/spreadsheets/d/1A0YN5Ps2Iq-yTHvBPXwrz61HBXA0ZWgIML911ub6B3o/copy)
     1. Copy the Sheet’s URL from the browser
@@ -62,7 +60,7 @@ use the script _as is_.
     1. Copy the URL of the deployed web app and paste it in a new tab in your
        broswser.
     1. This will bring up the web app that looks like this:
-    ![Screenshot of phone number web app](twilio-sheet/webapp-screenshot.png)
+    ![Screenshot of phone number web app](webapp-screenshot.png)
 
 1. Return to web app’s script on the
    [Code.js file](webapp/Code.js)
